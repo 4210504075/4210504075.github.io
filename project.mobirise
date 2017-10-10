@@ -835,11 +835,11 @@
           "_name": "content7",
           "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>三、工作表現</b><br>&nbsp; &nbsp; 由於家中環境並不富裕，因此我在學校期間即利用課餘時間打工以減輕家中負擔，也藉此增加工作經驗。因曾擔任過服務人員，從工作中訓練了自已面對各種不同客人的要求及應對進退的方法。<br>&nbsp; &nbsp; 另外我認為責任心是最重要的，從小到大父母給了我這樣的觀念，也因為責任心促使我不斷成長和學習。無論是哪一種工作，最重要的還是對工作的責任感和一顆肯學習的心。<br><br><b>四、入學動機</b>&nbsp;<br>&nbsp; &nbsp; 在高職畢業後，就踏入職場工作，貼補家用，一進入矽品就13年，當回想還有哪些事未完成而會有遺憾的同時，恰好公司同事也考慮在職場上能在對自己的學業進修，相約而同看到空二專的彈性上課方式，大大可減輕在職專班的壓力，期勉自能在求學歷程中更上一層樓。\n<br>&nbsp; &nbsp; 雖然重拾書本生活很辛苦，得須一步一步慢慢來，但我相信，因為有盡力過，就不會有遺憾~&nbsp;<br></p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/77e196ebcda4ea2b0f2708a28f437f239112f6c5.60.1.27.2-720x720.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qxFNyhVNTF",
+          "_anchor": "content7-12",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content7-12"
+          "_params": {}
         },
         {
           "_styles": {
@@ -853,11 +853,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>五、生涯規劃</b></p><p>&nbsp; &nbsp; 除了在這求學階段能順利通過並拿到副學士學位，更希望能再當學生的這個過程中，重新接軌新資訊，是否可以在工作領域上可以運用所學習到的新知識或新觀念，達到學以致用的效果。</p><p>&nbsp; &nbsp; 另一方面，更能在職場上透過進修，往更上一階層邁進，畢進職場工作還是需要學歷來輔助，主管鼓勵我們學習，也包容我們上班遇到上課時的休假，給自己更大的動力去完成我們現階段的求學規劃任務。\n</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qxFOGAQoH1",
+          "_anchor": "content1-13",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-13"
+          "_params": {}
         },
         {
           "_name": "footer1",
